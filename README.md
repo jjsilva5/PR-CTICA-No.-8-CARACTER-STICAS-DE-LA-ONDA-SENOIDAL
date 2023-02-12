@@ -18,7 +18,25 @@ Integrantes:
 
 2. MARCO TEÓRICO
 
+Onda Senoidal
 
+Onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo. Responde a la corriente de canalización generada en las grandes plantas eléctricas del mundo. También responden a la misma forma, todas las corrientes destinadas a generar los campos electromagnéticos de las ondas de radio.
+
+![image](https://user-images.githubusercontent.com/117045943/218288353-69ace3ba-4ea2-42fd-af37-5cd062becc91.png)
+ 
+La forma de onda
+
+La Corriente alterna se genera por diferentes métodos. Los más utilizados son los mecánicos rotativos, o alternadores de las bobinas eléctricas, para grandes potencias, y los electrónicos cuando las mismas son pequeñas. Esta manera de generar la corriente, determinará su Ley de Variación con respecto al tiempo.
+Representación
+
+Si representamos esta Ley de Variación en un par de ejes cartesianos marcados en amplitud y tiempo, se producirán gráficas con diferentes formas geométricas que identifiquen la corriente. Las formas de ondas más comunes son:
+
+•	la senoidal
+•	la cuadrada
+•	la triangular
+•	la diente de sierra
+
+Todas se presentan en distintos tipos muy variados.
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -42,6 +60,6 @@ Integrantes:
 
 7. BIBLIOGRAFÍA
 
-Laboratorio de Física, I. I., & Skigin, D. Ley de Ohm y de Kirchhoff.
+Onda senoidal. (2015, 20 junio). EcuRed. https://www.ecured.cu/Onda_senoidal
 
 Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education
