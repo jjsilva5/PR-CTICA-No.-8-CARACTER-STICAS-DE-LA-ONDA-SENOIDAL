@@ -32,8 +32,11 @@ Representación
 Si representamos esta Ley de Variación en un par de ejes cartesianos marcados en amplitud y tiempo, se producirán gráficas con diferentes formas geométricas que identifiquen la corriente. Las formas de ondas más comunes son:
 
 •	la senoidal
+
 •	la cuadrada
+
 •	la triangular
+
 •	la diente de sierra
 
 Todas se presentan en distintos tipos muy variados.
