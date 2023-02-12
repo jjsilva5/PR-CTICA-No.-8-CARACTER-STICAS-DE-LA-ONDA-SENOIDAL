@@ -43,6 +43,13 @@ Todas se presentan en distintos tipos muy variados.
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+3.1 MATERIAL Y EQUIPO REQUERIDO
+
+![image](https://user-images.githubusercontent.com/117045943/218288408-6da2162c-1b37-48be-890b-002b8ad071c1.png)
+
+3.2 Arme el circuito que se muestra en la figura
+
+![image](https://user-images.githubusercontent.com/117045943/218288415-d9795034-ad06-47a3-9823-a746f424262a.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
