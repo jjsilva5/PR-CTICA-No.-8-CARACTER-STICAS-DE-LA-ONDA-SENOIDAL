@@ -15,31 +15,27 @@ Integrantes:
 - Comparar datos teóricos con datos prácticos.
 - Interpretar e identificar el manejo del osciloscopio.
 - Identificar el proceso para la toma de mediciones, tal como el voltaje del circuito.
+- Determinar las características de señales senoidales.
+- Reconocer gráficamente las características de la onda senoidal.
 
 2. MARCO TEÓRICO
 
-Onda Senoidal
+CORRIENTE ALTERNA:
 
-Onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo. Responde a la corriente de canalización generada en las grandes plantas eléctricas del mundo. También responden a la misma forma, todas las corrientes destinadas a generar los campos electromagnéticos de las ondas de radio.
+Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y dirección varían periódicamente. La forma de onda de la corriente alterna más comúnmente utilizada es la de una onda senoidal, puesto que se consigue una transmisión más eficiente de la energía.
+Generalmente, la corriente alterna se refiere a la forma en la cual la electricidad llega a los hogares y a las empresas. Sin embargo, las señales de audio y de radio transmitidas por los cables eléctricos, son también ejemplos de corriente alterna.
 
-![image](https://user-images.githubusercontent.com/117045943/218288353-69ace3ba-4ea2-42fd-af37-5cd062becc91.png)
- 
-La forma de onda
+ONDA SENOIDAL
 
-La Corriente alterna se genera por diferentes métodos. Los más utilizados son los mecánicos rotativos, o alternadores de las bobinas eléctricas, para grandes potencias, y los electrónicos cuando las mismas son pequeñas. Esta manera de generar la corriente, determinará su Ley de Variación con respecto al tiempo.
-Representación
+La onda senoidal es una forma de onda periódica que se puede describir matemáticamente utilizando la función seno. Esta onda es muy importante en muchas áreas de la física, las matemáticas, la ingeniería y la electrónica debido a sus características únicas y su capacidad para representar muchos tipos diferentes de señales.
+En la mayoría de las aplicaciones, la onda senoidal se describe mediante una función matemática que se escribe como:
+y(t) = A sin (ωt + φ)
+donde "y" es el valor de la señal en un momento determinado, "A" es la amplitud máxima de la señal, "ω" es la frecuencia angular de la señal (medida en radianes por segundo), "t" es el tiempo y "φ" es la fase inicial de la señal.
 
-Si representamos esta Ley de Variación en un par de ejes cartesianos marcados en amplitud y tiempo, se producirán gráficas con diferentes formas geométricas que identifiquen la corriente. Las formas de ondas más comunes son:
+La onda senoidal tiene varias características importantes. Una de las más notables es su periodicidad. La señal se repite a intervalos regulares, y el tiempo que tarda en completar un ciclo completo se conoce como el período (T). La frecuencia (f) de la señal es la inversa del período, es decir, f = 1/T.
+Otra característica importante de la onda senoidal es su amplitud. La amplitud es la altura máxima de la señal, y se mide en unidades como voltios, amperios, etc. La amplitud puede variar con el tiempo.
 
-•	la senoidal
-
-•	la cuadrada
-
-•	la triangular
-
-•	la diente de sierra
-
-Todas se presentan en distintos tipos muy variados.
+![image](https://user-images.githubusercontent.com/117045943/219253426-fdcce08e-0add-4850-bddd-8c7ce7e5e9e5.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -51,14 +47,44 @@ Todas se presentan en distintos tipos muy variados.
 
 ![image](https://user-images.githubusercontent.com/117045943/218288415-d9795034-ad06-47a3-9823-a746f424262a.png)
 
+3.3 Circuito armado en dcaclab:
+
+![image](https://user-images.githubusercontent.com/117045943/219253458-94fe1833-5879-4823-a843-f9ba0edded9c.png)
+
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
+La amplitud pico es de dos cuadros.
+
+¿En qué valor está posicionada la perilla VOLTS/DIV?
+
+Está posicionada en el valor de 10.
+
+¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+Un ciclo completo abarca 4 cuadros.
+
+¿En qué valor está posicionada la perilla TIME/DIV?
+
+Se encuentra posicionada en 0.1m.
+
+7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+Amplitud de voltaje: 13.72 (V)
+
+Periodo: 0.4m(s)
+
+7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+f: 2.5 kHz o 2500Hz
+
+![image](https://user-images.githubusercontent.com/117045943/219253939-c745521c-4e70-4da3-9586-7aa0572d955a.png)
+
+![image](https://user-images.githubusercontent.com/117045943/219253954-8e84f848-0d8a-4140-a972-8ae57179a51e.png)
 
 5. VIDEO
 
-
+https://youtu.be/ScveWrOLAL0
 
 6. CONCLUSIONES
 
@@ -67,9 +93,13 @@ Todas se presentan en distintos tipos muy variados.
 - El valor instantáneo de la onda seno en cualquier punto es igual a la distancia vertical desde la punta del fasor hasta el eje horizontal.
 - Tener la informacion de ondas senoidales nos ayuda como medida de la distribucion de amplitudes de cada frecuencia.
 - Con combinaciones de señales senoidales de diferentes amplitudes y frecuencias se puede reconstruir cualquier forma de onda.
+- Una onda sinusoidal se repite a sí misma en intervalos regulares de tiempo.
+- El tiempo que tarda en completar una repetición se conoce como período, y se mide en segundos. 
+- La frecuencia de una onda sinusoidal es el número de repeticiones que ocurren en un segundo, y se mide en hertz (Hz). 
+- La relación entre la frecuencia y el período es simple: la frecuencia es igual a la inversa del período.
 
 7. BIBLIOGRAFÍA
 
-Onda senoidal. (2015, 20 junio). EcuRed. https://www.ecured.cu/Onda_senoidal
+Arcila, J. D. (2010). Armónicos en sistemas eléctricos. Ieb Sa, 1-26.
 
 Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education
