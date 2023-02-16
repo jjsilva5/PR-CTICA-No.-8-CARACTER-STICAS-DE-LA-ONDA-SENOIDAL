@@ -51,6 +51,7 @@ Otra característica importante de la onda senoidal es su amplitud. La amplitud 
 
 ![image](https://user-images.githubusercontent.com/117045943/219253458-94fe1833-5879-4823-a843-f9ba0edded9c.png)
 
+![image](https://user-images.githubusercontent.com/117045943/219256042-9f6a1e4f-66eb-42f3-b572-b6314dbb2bdb.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
